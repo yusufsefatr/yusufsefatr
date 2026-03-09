@@ -41,11 +41,12 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/yusufsefatr/yusufsefatr/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=yusufsefatr&theme=darkhub" />
 </p>
+
 
 ---
 
