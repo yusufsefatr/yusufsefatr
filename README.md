@@ -1,7 +1,11 @@
 <h1 align="center">Selam 👋 Ben Yusuf Sefa Akkuş</h1>
 
 <p align="center">
-🎓 Öğrenci • 🔐 Siber Güvenlik Meraklısı • 🌍 İstanbul, Türkiye
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Digital+Security+%7C+OSINT;Learning+%26+Exploring+Cyber+Security" />
+</p>
+
+<p align="center">
+🎓 Öğrenci • 🔐 Siber Güvenlik • 🌍 İstanbul, Türkiye
 </p>
 
 ---
@@ -24,11 +28,11 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 ### 🔐 Siber Güvenlik Araçları
 
 <p>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white">
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+<img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge">
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gobuster-555555?style=for-the-badge">
 <img src="https://img.shields.io/badge/Nikto-800000?style=for-the-badge">
 <img src="https://img.shields.io/badge/Hydra-006400?style=for-the-badge">
@@ -68,7 +72,8 @@ https://siteadresin.com
 💼 LinkedIn  
 https://linkedin.com/in/linkedinadresin  
 
-
+📷 Instagram  
+https://instagram.com/sonkaleislam
 
 ---
 
