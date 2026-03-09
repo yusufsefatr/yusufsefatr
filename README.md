@@ -64,16 +64,15 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 ## 📫 İletişim
 
 📧 Mail  
-mail@example.com  
+sec@yusufsefa.tr
 
 🌐 Website  
-https://siteadresin.com  
+https://yusufsefa.tr 
 
 💼 LinkedIn  
 https://linkedin.com/in/linkedinadresin  
 
-📷 Instagram  
-https://instagram.com/sonkaleislam
+
 
 ---
 
