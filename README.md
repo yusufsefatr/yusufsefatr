@@ -1,7 +1,7 @@
 <h1 align="center">Selam 👋 Ben Yusuf Sefa Akkuş</h1>
 
 <p align="center">
-🎓 Öğrenci • 🔐 Siber Güvenlik Meraklısı • 🌍 İstanbul
+🎓 Öğrenci • 🔐 Siber Güvenlik Meraklısı • 🌍 İstanbul, Türkiye
 </p>
 
 ---
@@ -11,21 +11,29 @@
 Siber güvenlik, dijital güvenlik ve teknoloji alanlarına ilgi duyan bir öğrenciyim.  
 GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştırmalarımı ve çeşitli projeleri paylaşıyorum.
 
-Özellikle şu alanlarda kendimi geliştirmeye çalışıyorum:
-
-🔐 Cyber Security  
-🌐 Web Security  
-🕵️ OSINT  
-💻 Open Source Technologies  
-🛡️ Digital Security
+Özellikle **siber güvenlik, dijital egemenlik ve bilgi güvenliği** konularında kendimi geliştirmeye çalışıyorum.
 
 ---
 
-## 🛠️ İlgi Alanlarım
+## 🛠️ Teknolojiler
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,bash,vscode" />
 </p>
+
+---
+
+## 🔐 Siber Güvenlik Araçları
+
+- Nmap
+- Burp Suite
+- Wireshark
+- Metasploit
+- OWASP ZAP
+- Gobuster
+- Nikto
+- Hydra
+- John The Ripper
 
 ---
 
@@ -49,9 +57,19 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 
 ---
 
-## 📫 Bana Ulaş
+## 📫 İletişim
 
+📧 Mail  
+mail@example.com  
 
+🌐 Website  
+https://siteadresin.com  
+
+💼 LinkedIn  
+https://linkedin.com/in/linkedinadresin  
+
+📷 Instagram  
+https://instagram.com/sonkaleislam
 
 ---
 
