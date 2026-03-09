@@ -41,18 +41,6 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yusufsefatr&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsefatr&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
