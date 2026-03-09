@@ -15,25 +15,25 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 
 ---
 
-## 🛠️ Teknolojiler
+## 🧩 İlgi Alanlarım
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
 </p>
 
----
+### 🔐 Siber Güvenlik Araçları
 
-## 🔐 Siber Güvenlik Araçları
-
-- Nmap
-- Burp Suite
-- Wireshark
-- Metasploit
-- OWASP ZAP
-- Gobuster
-- Nikto
-- Hydra
-- John The Ripper
+<p>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white">
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/Gobuster-555555?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nikto-800000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hydra-006400?style=for-the-badge">
+<img src="https://img.shields.io/badge/John%20The%20Ripper-B22222?style=for-the-badge">
+</p>
 
 ---
 
@@ -68,11 +68,10 @@ https://siteadresin.com
 💼 LinkedIn  
 https://linkedin.com/in/linkedinadresin  
 
-📷 Instagram  
-https://instagram.com/sonkaleislam
+
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&color=blue" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=yusufsefatr&color=blue" alt="profile views"/>
 </p>
