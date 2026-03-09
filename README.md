@@ -41,10 +41,10 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yusufsefatr&theme=darkhub" />
+<img src="https://github-profile-trophy.vercel.app/?username=yusufsefatr&theme=tokyonight&row=1&column=6" />
 </p>
 
 
