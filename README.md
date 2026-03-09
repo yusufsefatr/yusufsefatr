@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 Öğrenci • 🔐 Siber Güvenlik • 🌍 İstanbul, Türkiye
+🎓 Öğrenci • 🔐 Siber Güvenlik Meraklısı • 🌍 İstanbul, Türkiye
 </p>
 
 ---
@@ -53,10 +53,10 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 
 ---
 
-## 🔥 GitHub Aktivite Grafiği
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsefatr&theme=tokyo-night" />
+<img src="https://raw.githubusercontent.com/yusufsefatr/yusufsefatr/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -78,5 +78,5 @@ https://instagram.com/sonkaleislam
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yusufsefatr&color=blue" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=yusufsefatr&color=blue" />
 </p>
