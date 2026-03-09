@@ -1,70 +1,73 @@
-<h1 align="center">Selam 👋 Ben Yusuf Sefa Akkuş</h1>
+<h1 align="center">Yusuf Sefa Akkuş</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Digital+Security+%7C+OSINT;Learning+%26+Exploring+Cyber+Security" />
+Cyber Security Enthusiast • Student • Istanbul
 </p>
 
 <p align="center">
-🎓 Öğrenci • 🔐 Siber Güvenlik Meraklısı • 🌍 İstanbul, Türkiye
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Cyber+Security;OSINT;Digital+Security;Learning+Every+Day" />
 </p>
 
 ---
 
-## 🧠 Hakkımda
+## About Me
 
-Siber güvenlik, dijital güvenlik ve teknoloji alanlarına ilgi duyan bir öğrenciyim.  
-GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştırmalarımı ve çeşitli projeleri paylaşıyorum.
+I am a student interested in **cyber security, digital security and open technologies**.
 
-Özellikle **siber güvenlik, dijital egemenlik ve bilgi güvenliği** konularında kendimi geliştirmeye çalışıyorum.
+On this GitHub profile I share:
+
+- things I learn  
+- security related notes  
+- experiments and small projects  
 
 ---
 
-## 🧩 İlgi Alanlarım
+## Interests
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
 </p>
 
-### 🔐 Siber Güvenlik Araçları
+---
+
+## Cyber Security Tools
 
 <p>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
-<img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge">
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Gobuster-555555?style=for-the-badge">
-<img src="https://img.shields.io/badge/Nikto-800000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hydra-006400?style=for-the-badge">
-<img src="https://img.shields.io/badge/John%20The%20Ripper-B22222?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nmap-black?style=flat-square">
+<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Metasploit-darkblue?style=flat-square">
+<img src="https://img.shields.io/badge/OWASP%20ZAP-red?style=flat-square">
+<img src="https://img.shields.io/badge/Gobuster-grey?style=flat-square">
+<img src="https://img.shields.io/badge/Nikto-darkred?style=flat-square">
+<img src="https://img.shields.io/badge/Hydra-green?style=flat-square">
+<img src="https://img.shields.io/badge/John%20The%20Ripper-brown?style=flat-square">
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yusufsefatr&theme=tokyonight&row=1&column=6" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=yusufsefatr&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsefatr&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
-
 ---
 
-## 📫 İletişim
-
-📧 Mail  
-sec@yusufsefa.tr
-
-🌐 Website  
-https://yusufsefa.tr 
-
-💼 LinkedIn  
-https://linkedin.com/in/linkedinadresin  
-
-
-
----
+## GitHub Streak
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yusufsefatr&color=blue" />
+<img src="https://streak-stats.demolab.com?user=yusufsefatr&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## Contact
+
+Email: mail@example.com  
+Website: https://siteadresin.com  
+LinkedIn: https://linkedin.com/in/linkedinadresin
