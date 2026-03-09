@@ -1,8 +1,8 @@
-# 👋 Selam, ben Yusuf Sefa Akkuş
+<h1 align="center">Selam 👋 Ben Yusuf Sefa Akkuş</h1>
 
-🎓 Öğrenci  
-🔐 Siber Güvenlik
-📍 Türkiye  
+<p align="center">
+🎓 Öğrenci • 🔐 Siber Güvenlik Meraklısı • 🌍 İstanbul
+</p>
 
 ---
 
@@ -13,28 +13,48 @@ GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştır
 
 Özellikle şu alanlarda kendimi geliştirmeye çalışıyorum:
 
-- Siber Güvenlik
-- Web Güvenliği
-- OSINT
-- Dijital Güvenlik
-- Açık Kaynak Teknolojileri
+🔐 Cyber Security  
+🌐 Web Security  
+🕵️ OSINT  
+💻 Open Source Technologies  
+🛡️ Digital Security
 
 ---
 
-## 📂 Bu Profilde Neler Var?
+## 🛠️ İlgi Alanlarım
 
-Bu GitHub hesabında;
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,bash,vscode" />
+</p>
 
-- Güvenlik araştırmalarım
-- Öğrendiğim teknik notlar
-- Deneme projeleri
-- Siber güvenlik üzerine çalışmalar
+---
 
-yer almaktadır.
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yusufsefatr&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsefatr&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Aktivite Grafiği
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsefatr&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 📫 Bana Ulaş
 
-📧 Email: sec@yusufsefa.tr
-🌐 Website: yusufsefa.tr
+
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&color=blue" alt="profile views"/>
+</p>
