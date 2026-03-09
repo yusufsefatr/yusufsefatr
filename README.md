@@ -1,7 +1,7 @@
 <h1 align="center">Yusuf Sefa Akkuş</h1>
 
 <p align="center">
-Cyber Security Enthusiast • Student • Istanbul
+Cyber Security • Student • Istanbul
 </p>
 
 <p align="center">
@@ -68,6 +68,6 @@ On this GitHub profile I share:
 
 ## Contact
 
-Email: mail@example.com  
-Website: https://siteadresin.com  
-LinkedIn: https://linkedin.com/in/linkedinadresin
+Email: sec@yusufsefa.tr 
+Website: https://yusufsefa.tr
+LinkedIn: https://linkedin.com/in/yusuf-sefa-akkuş
