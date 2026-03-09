@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Selam, ben Yusuf Sefa Akkuş
 
-<!--
-**yusufsefatr/yusufsefatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Öğrenci  
+🔐 Siber Güvenlik
+📍 Türkiye  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Hakkımda
+
+Siber güvenlik, dijital güvenlik ve teknoloji alanlarına ilgi duyan bir öğrenciyim.  
+GitHub profilimde öğrenme sürecimde edindiğim bilgileri, güvenlik araştırmalarımı ve çeşitli projeleri paylaşıyorum.
+
+Özellikle şu alanlarda kendimi geliştirmeye çalışıyorum:
+
+- Siber Güvenlik
+- Web Güvenliği
+- OSINT
+- Dijital Güvenlik
+- Açık Kaynak Teknolojileri
+
+---
+
+## 📂 Bu Profilde Neler Var?
+
+Bu GitHub hesabında;
+
+- Güvenlik araştırmalarım
+- Öğrendiğim teknik notlar
+- Deneme projeleri
+- Siber güvenlik üzerine çalışmalar
+
+yer almaktadır.
+
+---
+
+## 📫 Bana Ulaş
+
+📧 Email: sec@yusufsefa.tr
+🌐 Website: yusufsefa.tr
